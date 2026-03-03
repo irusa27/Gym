@@ -1,0 +1,124 @@
+body {
+    font-family: "Helvetica Neue", "Roboto", "Verdana", sans-serif;
+    color: #212121;
+    background-color: antiquewhite;
+    font-size: 14px;
+    line-height: 1.5;
+} 
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Tangerine', cursive;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.page-header {
+    background-color: #bdbdbd;
+}
+
+.section-text {
+    color: #ff5722;
+}
+
+.page-footer {
+    background-color: #212121;
+}
+
+.copyright-text {
+    color: #ffffff;
+}
+
+.page-title {
+    color: #f44336;
+    
+    font-size: 48px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 1.333;
+    letter-spacing: 3px;
+    text-shadow: 2px 2px 4px #18ffff;
+}
+
+.page-text {
+    text-align: justify;
+}
+
+.section-title {
+    color: #3f51b5;
+    font-size: 38px;
+    font-weight: 500;
+    
+    line-height: 1.333;
+    letter-spacing: 1px;
+}
+
+.section-text {
+    line-height: 1.5;
+    text-indent: 24px;
+}
+
+.club-list h3 {
+    color: #4caf50;
+    font-size: 24px;
+    
+    text-align: center;
+    line-height: 1.333;
+}
+
+
+
+
+.club-list p {
+    color: #009688;
+    text-align: justify;
+}
+
+.club-list .link {
+    color: #ffc107;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.benefits li {
+    color: #d500f9;
+}
+
+.page-nav a:hover,
+.page-nav a:focus {
+    color: #18ffff;
+}
+
+.page-nav a {
+    text-transform: uppercase;
+    font-size: 14px;
+    text-decoration: overline;
+}
+
+.club-list .link:hover,
+.club-list .link:focus {
+    color: #f57f17;
+    text-decoration: underline;
+}
+
+.page-nav a:active {
+    color: #212121;
+}
+
+.club-list .link:active {
+    color: #ff1744;
+}
+
+.section > ul {
+color: aquamarine;
+}
+
+.downloads .plan-name {
+    color: #00bcd4;
+    font-size: 16px;
+    font-weight: 500;
+}
